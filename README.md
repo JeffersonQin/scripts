@@ -37,3 +37,4 @@
 * [ti-chem-calc](https://github.com/JeffersonQin/ti-chem-calc): Molecular mass calculating program for TI calculators
 * [windows-config-script](https://github.com/JeffersonQin/windows-config-script): 重装后的一键配置
 * [ylgy-recognition](https://github.com/JeffersonQin/ylgy-recognition): 羊了个羊识别
+* qsync-auto-restart-mac: 因为 Qsync 有时候有 bug 同步条不走了，所以每十分钟自动重启 Qsync
