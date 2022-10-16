@@ -17,3 +17,23 @@
 ## LICENSE
 
 以前的老项目全部按照原项目协议与 AGPL 协议双协议发布。submodule 以外的内容，即新内容，全部按照 AGPL 协议发布。
+
+## 说明
+
+* [clash-multi-mixin](https://github.com/JeffersonQin/clash-multi-mixin): 让 Clash 的 Mixin 同时对多个飞机场适配
+* [classin-auto-clockin](https://github.com/JeffersonQin/classin-auto-clockin): ClassIn 自动打卡
+* ~~[CloudflareDDNS](https://github.com/JeffersonQin/CloudflareDDNS)~~ [Depracated]: DDNS service for Cloudflare，已弃用，请使用下一个，不过此版本有 Qt 界面和 exe
+* [cloudflare-ddns-cli](https://github.com/JeffersonQin/cloudflare-ddns-cli): Cloudflare DDNS CLI tool
+* [dandanplay_toolchain](https://github.com/JeffersonQin/dandanplay_toolchain): 弹弹Play的一些有用的脚本。
+* [dayone2markdown](https://github.com/JeffersonQin/dayone2markdown): Day One diary entries to markdown files
+* [jsdelivr-github-purge](https://github.com/JeffersonQin/jsdelivr-github-purge): A script that purges the jsdelivr cdn of github repo
+* [log-file-monitor](https://github.com/JeffersonQin/log-file-monitor): Monitor status of logging file; used for debugging.
+* [mirror-toolbox](https://github.com/JeffersonQin/mirror-toolbox): 网课镜像工具箱
+* [PollEverywhereAutoCheckin](https://github.com/JeffersonQin/PollEverywhereAutoCheckin): ClassIn 自动打卡
+* [qbittorrent-auto-flush](https://github.com/JeffersonQin/qbittorrent-auto-flush): qbittorrent 下载完毕后自动 FTP 上传复制
+* [qts-hybird-backup-sync-clean-addition](https://github.com/JeffersonQin/qts-hybird-backup-sync-clean-addition): QTS Hybird Backup Sync 增量备份清理工具
+* [samba-docker](https://github.com/JeffersonQin/samba-docker): Samba in Docker
+* [stick-fight-auto](https://github.com/JeffersonQin/stick-fight-auto): Stick Fight 自动瞄准
+* [ti-chem-calc](https://github.com/JeffersonQin/ti-chem-calc): Molecular mass calculating program for TI calculators
+* [windows-config-script](https://github.com/JeffersonQin/windows-config-script): 重装后的一键配置
+* [ylgy-recognition](https://github.com/JeffersonQin/ylgy-recognition): 羊了个羊识别
