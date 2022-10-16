@@ -1,0 +1,51 @@
+[submodule "cloudflare-ddns-cli"]
+	path = cloudflare-ddns-cli
+	url = https://github.com/JeffersonQin/cloudflare-ddns-cli
+[submodule "PollEverywhereAutoCheckin"]
+	path = PollEverywhereAutoCheckin
+	url = https://github.com/JeffersonQin/PollEverywhereAutoCheckin
+[submodule "ylgy-recognition"]
+	path = ylgy-recognition
+	url = https://github.com/JeffersonQin/ylgy-recognition
+[submodule "samba-docker"]
+	path = samba-docker
+	url = https://github.com/JeffersonQin/samba-docker
+[submodule "qbittorrent-auto-flush"]
+	path = qbittorrent-auto-flush
+	url = https://github.com/JeffersonQin/qbittorrent-auto-flush
+[submodule "windows-config-script"]
+	path = windows-config-script
+	url = https://github.com/JeffersonQin/windows-config-script
+[submodule "mirror-toolbox"]
+	path = mirror-toolbox
+	url = https://github.com/JeffersonQin/mirror-toolbox
+[submodule "classin-auto-clockin"]
+	path = classin-auto-clockin
+	url = https://github.com/JeffersonQin/classin-auto-clockin
+[submodule "qts-hybird-backup-sync-clean-addition"]
+	path = qts-hybird-backup-sync-clean-addition
+	url = https://github.com/JeffersonQin/qts-hybird-backup-sync-clean-addition
+[submodule "clash-multi-mixin"]
+	path = clash-multi-mixin
+	url = https://github.com/JeffersonQin/clash-multi-mixin
+[submodule "dayone2markdown"]
+	path = dayone2markdown
+	url = https://github.com/JeffersonQin/dayone2markdown
+[submodule "stick-fight-auto"]
+	path = stick-fight-auto
+	url = https://github.com/JeffersonQin/stick-fight-auto
+[submodule "ti-chem-calc"]
+	path = ti-chem-calc
+	url = https://github.com/JeffersonQin/ti-chem-calc
+[submodule "log-file-monitor"]
+	path = log-file-monitor
+	url = https://github.com/JeffersonQin/log-file-monitor
+[submodule "jsdelivr-github-purge"]
+	path = jsdelivr-github-purge
+	url = https://github.com/JeffersonQin/jsdelivr-github-purge
+[submodule "CloudflareDDNS"]
+	path = CloudflareDDNS
+	url = https://github.com/JeffersonQin/CloudflareDDNS
+[submodule "dandanplay_toolchain"]
+	path = dandanplay_toolchain
+	url = https://github.com/JeffersonQin/dandanplay_toolchain
