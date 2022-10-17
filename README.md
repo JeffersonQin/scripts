@@ -14,6 +14,16 @@
 
 以后新增的脚本会直接建立文件夹在本repo下进行维护，方便迁移与部署。
 
+## 使用
+
+Clone
+
+```bash
+git clone --recurse-submodules --remote-submodules -j8 https://github.com/JeffersonQin/scripts
+cd scripts
+git submodule foreach --recursive git checkout master
+```
+
 ## LICENSE
 
 以前的老项目全部按照原项目协议与 AGPL 协议双协议发布。submodule 以外的内容，即新内容，全部按照 AGPL 协议发布。
